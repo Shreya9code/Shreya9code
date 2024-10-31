@@ -7,18 +7,18 @@
 </div>
 - 👋 Hi, I’m SHREYA DENRE @Shreya9code
 
-
+Welcome to my GitHub profile! I'm a 2nd yr B. Tech CSE student at Heritage Institute of Technology, Kolkata
 ### :man_technologist: About Me :
 - 👀 I’m interested in Web Dev,Gen AI 
 - 🌱 I’m currently learning ML.
 - 💞️ I’m looking to collaborate on tech
-- 📫 How to reach me :
--     LinkedIn:https://www.linkedin.com/in/shreya-denre-b2ba06279
-   <div id="badges">
+- 📫 How to reach me :   <div id="badges">
   <a href="https://www.linkedin.com/in/shreya-denre-b2ba06279">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
+-     LinkedIn:https://www.linkedin.com/in/shreya-denre-b2ba06279
+
 
 - 😄 Pronouns: She/her👩‍💻
 - ⚡ Fun fact: Love to eat & sleep🥱
