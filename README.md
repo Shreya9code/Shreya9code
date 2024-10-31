@@ -7,6 +7,8 @@
 </div>
 - 👋 Hi, I’m SHREYA DENRE @Shreya9code
 
+
+### :man_technologist: About Me :
 - 👀 I’m interested in Web Dev,Gen AI 
 - 🌱 I’m currently learning ML.
 - 💞️ I’m looking to collaborate on tech
