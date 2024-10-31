@@ -13,6 +13,9 @@
 - 😄 Pronouns: She/her👩‍💻
 - ⚡ Fun fact: Love to eat & sleep🥱
 
+  https://komarev.com/ghpvc/?username=Shreya9code
+ <img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt=""/>
+ 
 ![Screenshot 2024-10-29 200334](https://github.com/user-attachments/assets/ca5fb6e3-8c1c-43f9-a3de-75917387b714)
 (https://holopin.me/shreya9code)
 (https://holopin.io/@shreya9code)
