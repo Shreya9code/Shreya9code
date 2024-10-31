@@ -3,8 +3,9 @@
 - 🌱 I’m currently learning ML.
 - 💞️ I’m looking to collaborate on tech
 - 📫 How to reach me :
--     LinkedIn:https://www.linkedin.com/in/shreya-denre-b2ba06279 <div id="badges">
-  <a href="your-linkedin-URL">
+-     LinkedIn:https://www.linkedin.com/in/shreya-denre-b2ba06279
+   <div id="badges">
+  <a href="https://www.linkedin.com/in/shreya-denre-b2ba06279">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
