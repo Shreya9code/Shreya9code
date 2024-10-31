@@ -1,5 +1,10 @@
+<h1>
+  Hey there
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h1>
 - 👋 Hi, I’m SHREYA DENRE @Shreya9code
-- 👀 I’m interested in Web Dev,Gen AI
+
+- 👀 I’m interested in Web Dev,Gen AI 
 - 🌱 I’m currently learning ML.
 - 💞️ I’m looking to collaborate on tech
 - 📫 How to reach me :
