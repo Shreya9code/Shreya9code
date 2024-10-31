@@ -35,7 +35,14 @@ Welcome to my GitHub profile! I'm a 2nd yr B. Tech CSE student at Heritage Insti
  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" title="Postman"  alt="Postman" width="40" height="40"/>&nbsp;
  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>&nbsp;
 </div>
- 
+
+ ---
+
+### :fire: My Stats :
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Shreya9code&theme=dark&background=000000)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shreya9code&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
 ![Screenshot 2024-10-29 200334](https://github.com/user-attachments/assets/ca5fb6e3-8c1c-43f9-a3de-75917387b714)
 (https://holopin.me/shreya9code)
 (https://holopin.io/@shreya9code)
