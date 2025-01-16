@@ -10,7 +10,7 @@
 - 👋 Hi, I’m SHREYA DENRE @Shreya9code
 
 Welcome to my GitHub profile! I'm a 2nd yr B. Tech CSE student at Heritage Institute of Technology, Kolkata
-### :man_technologist: About Me :
+### 👩🏻‍💻 About Me :
 - 👀 I’m interested in Web Dev,Gen AI 
 - 🌱 I’m currently learning ML.
 - 💞️ I’m looking to collaborate on tech
@@ -22,7 +22,7 @@ Welcome to my GitHub profile! I'm a 2nd yr B. Tech CSE student at Heritage Insti
 -     LinkedIn:https://www.linkedin.com/in/shreya-denre-b2ba06279
 
 
-- 😄 Pronouns: She/her👩‍💻
+- 👧 Pronouns: She/her👩‍💻
 - ⚡ Fun fact: Love to eat & sleep🥱
 <div id="header" align="center">
    <img src="https://komarev.com/ghpvc/?username=Shreya9code&style=flat-square&color=blue" alt=""/>
@@ -63,7 +63,7 @@ Welcome to my GitHub profile! I'm a 2nd yr B. Tech CSE student at Heritage Insti
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shreya9code&layout=compact&theme=vision-friendly-dark)](https://github.com/Shreya9code/github-readme-stats)
 <h3 align="center">🏆 GitHub Trophies</h3>
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Shreya9code&theme=radical" alt="GitHub Trophies">
+  <img src="https://github-profile-trophy.vercel.app/?username=Shreya9code&theme=vision-friendly-dark" alt="GitHub Trophies">
 </p>
 
 ---
