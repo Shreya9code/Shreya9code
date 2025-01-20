@@ -19,7 +19,7 @@ Welcome to my GitHub profile! I'm a 2nd yr B. Tech CSE student at Heritage Insti
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
--     LinkedIn:https://www.linkedin.com/in/shreya-denre-b2ba06279
+    LinkedIn:https://www.linkedin.com/in/shreya-denre-b2ba06279
 
 
 - 👧 Pronouns: She/her👩‍💻
@@ -52,16 +52,17 @@ Welcome to my GitHub profile! I'm a 2nd yr B. Tech CSE student at Heritage Insti
 </div>
 
  ---
-
+<p align="center">
 <h3 align="center"> :fire: My GitHub Stats :</h3>
-<p align="center">
-  <img width="800" height="220" src="https://streak-stats.demolab.com?user=Shreya9code&theme=highcontrast&hide_border=true&border_radius=5&card_width=800">
-</p>
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Shreya9code&show_icons=true&theme=dark&locale=en" alt="Shreya's GitHub Stats" width="400" height="200"/>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shreya9code&layout=compact&theme=vision-friendly-dark&include_all_commits=true&count_private=true" alt="Shreya's Top Languages" width="400" height="200"/>
-</p>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shreya9code&layout=compact&theme=vision-friendly-dark)](https://github.com/Shreya9code/github-readme-stats)
+
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shreya9code&show_icons=true&theme=radical&count_private=true&include_all_commits=true)
+
+### My Top Languages
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Shreya9code&include_all_commits=true&layout=compact&theme=radical&count_private=true)
+
+
+</p>(https://github.com/Shreya9code/github-readme-stats)
 <h3 align="center">🏆 GitHub Trophies</h3>
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Shreya9code&theme=vision-friendly-dark" alt="GitHub Trophies">
