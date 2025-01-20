@@ -58,7 +58,7 @@ Welcome to my GitHub profile! I'm a 2nd yr B. Tech CSE student at Heritage Insti
   <img width="800" height="220" src="https://streak-stats.demolab.com?user=Shreya9code&theme=highcontrast&hide_border=true&border_radius=5&card_width=800">
 </p>
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Shreya9code&show_icons=true&theme=dark&locale=en" alt="Anidipta's GitHub Stats" width="400" height="200"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Shreya9code&show_icons=true&theme=dark&locale=en" alt="Shreya's GitHub Stats" width="400" height="200"/>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shreya9code&layout=compact&theme=vision-friendly-dark&include_all_commits=true&count_private=true" alt="Shreya's Top Languages" width="400" height="200"/>
 </p>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shreya9code&layout=compact&theme=vision-friendly-dark)](https://github.com/Shreya9code/github-readme-stats)
