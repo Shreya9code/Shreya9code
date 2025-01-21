@@ -59,10 +59,9 @@ Welcome to my GitHub profile! I'm a 2nd yr B. Tech CSE student at Heritage Insti
 
 ### My Top Languages
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Shreya9code&include_all_commits=true&layout=compact&theme=radical&count_private=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Shreya9code&include_all_commits=true&layout=compact&theme=radical&count_private=true&v=2)
 
-
-</p>(https://github.com/Shreya9code/github-readme-stats)
+</p>
 <h3 align="center">🏆 GitHub Trophies</h3>
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Shreya9code&theme=vision-friendly-dark" alt="GitHub Trophies">
