@@ -79,6 +79,10 @@ Welcome to my GitHub profile! I'm a 2nd yr B. Tech CSE student at Heritage Insti
 ![Screenshot 2024-10-29 200334](https://github.com/user-attachments/assets/ca5fb6e3-8c1c-43f9-a3de-75917387b714)
 (https://holopin.me/shreya9code)
 (https://holopin.io/@shreya9code)
+
+
+> [!CAUTION]
+> Don't Leave My GitHub Profile Without Giving :star: In The Repositories.
 <!---
 Shreya9code/Shreya9code is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
