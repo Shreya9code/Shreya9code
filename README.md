@@ -75,6 +75,7 @@ Welcome to my GitHub profile! I'm a 2nd yr B. Tech CSE student at Heritage Insti
 
 ---
 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Shreya9code&" alt="Shreya9code" /></p>
 
 ![Screenshot 2024-10-29 200334](https://github.com/user-attachments/assets/ca5fb6e3-8c1c-43f9-a3de-75917387b714)
 (https://holopin.me/shreya9code)
